@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drone31
+- 👋 Hi, I’m @Neyz_
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on this 
